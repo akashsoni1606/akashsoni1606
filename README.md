@@ -1,6 +1,7 @@
 Hi, I'm Akash Soni
 
-🚀 Operations Analyst → Data / Power BI Analyst 📊 Turning operational data into actionable insights
+🚀 Operations Analyst → Data / Power BI Analyst 
+📊 Turning operational data into actionable insights
 
 👨‍💼 About Me
 
